@@ -1,0 +1,9 @@
+BRG — Demonstração de site institucional em página única
+
+1. Abra index.html no navegador para visualizar a demonstração.
+2. Para publicar gratuitamente: crie um repositório novo no GitHub, envie index.html, styles.css e script.js para a raiz, e ative GitHub Pages (Settings > Pages > Deploy from a branch > main / root).
+3. Não altere o domínio balancasriograndense.com.br até preservar backup do WordPress, banco de dados e DNS.
+4. Esta demonstração NÃO é o site oficial e contém ilustrações e textos provisórios.
+5. Solicitar aprovação de Cláudio para produtos, textos, fotos, endereço, telefone e divulgação. O telefone do cartão de Michel, funcionário da empresa, é (51) 98405-9911. Os botões de WhatsApp apontam provisoriamente para esse número; confirme com Cláudio antes da publicação pública.
+6. Filtros de produtos, menu móvel, WhatsApp, e-mail e âncoras funcionam. Fotos verdadeiras podem substituir as ilustrações antes da publicação.
+7. O protótipo foi feito em HTML/CSS/JS sem dependências de instalação. Isso simplifica a primeira publicação e permite migrar para Next.js futuramente, se necessário.
